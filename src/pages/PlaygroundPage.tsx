@@ -1,4 +1,4 @@
-import Onboarding from "../components/Onboarding";
+import Onboarding from '../components/Onboarding';
 
 const PlaygroundPage = () => {
   return <Onboarding />;
